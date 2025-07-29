@@ -47,16 +47,27 @@ The logger will begin capturing keypresses. You can stop it at any time by press
  📄 Example Output (`keystrokes.log`)
 
 [2025-07-29 20:13:44] h
+
 [2025-07-29 20:13:44] e
+
 [2025-07-29 20:13:44] l
+
 [2025-07-29 20:13:45] l
+
 [2025-07-29 20:13:45] o
+
 [2025-07-29 20:13:46] space
+
 [2025-07-29 20:13:47] w
+
 [2025-07-29 20:13:47] o
+
 [2025-07-29 20:13:47] r
+
 [2025-07-29 20:13:47] l
+
 [2025-07-29 20:13:47] d
+
 
  🔁 Log Rotation
 
